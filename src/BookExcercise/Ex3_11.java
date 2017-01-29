@@ -49,12 +49,8 @@ public class Ex3_11
                     
         }
         
-       
         
         System.out.print(year + " had " + days + " days");
-        
-         
-            
-            
+           
     }
 }
